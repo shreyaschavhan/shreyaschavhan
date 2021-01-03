@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hello, folks! 👋
 
+My name is Shreyas Chavhan & I am currently a college sophomore at International Institute of Information Technology, Pune.
 <!--
 **shreyaschavhan/shreyaschavhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
