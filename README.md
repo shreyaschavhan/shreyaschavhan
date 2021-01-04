@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hello Folks 👋, My name is. Shreyas Chavhan</h1>
 <h3 align="center">College Sophomore at International Institute of Information Technology, Pune.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...​"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyaschavhan&label=Profile%20views&color=0e75b6&style=flat" alt="shreyaschavhan" /> </p>
 
