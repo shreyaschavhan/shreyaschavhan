@@ -22,10 +22,11 @@ Here are some ideas to get you started:
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyaschavhan&label=Profile%20views&color=0e75b6&style=flat" alt="shreyaschavhan" /> </p>
-
+<!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyaschavhan" alt="shreyaschavhan" /></a> </p>
-
+-->
 <p align="left"> <a href="https://twitter.com/shreyas_chavhan" target="blank"><img src="https://img.shields.io/twitter/follow/shreyas_chavhan?logo=twitter&style=for-the-badge" alt="shreyas_chavhan" /></a> </p>
+
 
 - 🌱 I’m currently learning : **C++, Python, C & Data Structure and Algorithms**
 
