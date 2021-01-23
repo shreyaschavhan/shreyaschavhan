@@ -38,6 +38,7 @@ I also enjoy having mindful conversations with interesting people. Having Good o
 * Python and C are secondary languages that I use.
 * Tried Javascript lil' bit, but lost interest soon enough.
 * 100 Days of Code : 2nd Oct 2020 - 9th January 2021
+* I do Lil' bit of Competitve Coding 😁
 * Mail me : **chavhanshreyas@gmail.com**
 
 ---
