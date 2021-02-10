@@ -1,4 +1,8 @@
-# [![Shreyas Chavhan header](https://github.com/shreyaschavhan/shreyaschavhan/blob/main/Images/Blue%20and%20Yellow%20Laptop%20Start-up%20Business%20Facebook%20Cover.png)](https://github.com/shreyaschavhan)
+
+# [![Shreyas Chavhan header](https://github.com/shreyaschavhan/shreyaschavhan/blob/main/Images/12%20(2).png)](https://github.com/shreyaschavhan)
+
+
+
 <p>
     <a><img align='right' width='180' src="https://hbfs.files.wordpress.com/2009/08/code-1.png"></a>
 </p>
