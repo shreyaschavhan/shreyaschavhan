@@ -17,6 +17,7 @@ I also enjoy having mindful conversations with interesting people. Having Good o
 
 I like hunting for bugs and opportunities in my free time! I used to be shy but now confident about leading any situation and position. I am constantly working on my skills and have progressed a lot.
 <br>
+<br>
 
 ---
 
