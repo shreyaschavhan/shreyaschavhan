@@ -1,4 +1,4 @@
-### ⁍ 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
+### ⁍ 𝐒𝐡𝐫𝐞𝐲𝐚𝐬 𝐂𝐡𝐚𝐯𝐡𝐚𝐧
 
 
 ```
@@ -28,10 +28,10 @@ File  Action  Edit  View  Help
 Info that nobody cares about (but I do and gonna mention for no reason at all):
 ⁍ Interested in People, Jungian Analytical Psychology and Human Brain.
 ⁍ Ni dom 
+⁍ 5w4
 ```
 
 ---
-
 
 ### ⁍ 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐬:
 
@@ -41,5 +41,18 @@ Info that nobody cares about (but I do and gonna mention for no reason at all):
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyaschavhan&" alt="shreyaschavhan" /></p>
 
 ---
+
+### ⁍ 𝑾𝒂𝒏𝒏𝒂 𝑯𝒊𝒓𝒆 𝑴𝒆?
+
+```
+: Mail Me             - chavhanshreyas@gmail.com
+: Hackerone Invites?  - shreyaschavhan@wearehackerone.com
+: LinkedIn            - www.linkedin.com/in/shreyaschavhan/
+: Github              - www.github.com/shreyaschavhan
+```
+
+---
+
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shreyaschavhan&label=Profile%20views&color=0e75b6&style=flat" alt="shreyaschavhan" /> </p>
