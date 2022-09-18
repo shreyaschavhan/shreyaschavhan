@@ -14,7 +14,7 @@ File  Action  Edit  View  Help
 : Learning :
 ==> Source Code Analysis (White Box Testing)
 ==> Black Box Testing (a lil' bit)
-==> Web3.0 -> BlockChain -> Etherium -> Smart Contracts -> Solidity
+==> Web3.0 -> BlockChain -> Ethereum -> Smart Contracts -> Solidity
 ==> Smart Contract Security
 
 : Certification Currently Preparing for :
